@@ -10,19 +10,15 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M YENNER! 
-*INFORMATION SYSTEMS ANALYST AND DEVELOPER*
+*INFORMATION SYSTEMS ANALYST AND SOFTWARE DEVELOPER*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Sofware Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left"> I am an Information Systems Analyst and Software Developer. My strongest programming languages are JavaScript, Python, and C#.</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- ✨ Continuous growth
+- 🌱 Every day is a new opportunity
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -34,9 +30,9 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">LANGUAGES AND TOOLS</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,mongo,git,vscode,postman"  />
 </p>
 <br />
 
@@ -44,8 +40,8 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  <a href="https://github.com/yenneralayon142/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yenneralayon142&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
 <br />
