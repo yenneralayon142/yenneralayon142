@@ -1,7 +1,8 @@
 ## Hola a Todos! 👋
 
 <!--Banner-->
-![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+
+<img src="/PortadaYenner.png">
 
 <!--Night Owl image-->
 <div>
@@ -30,7 +31,7 @@ Analista y Desarrollador de Sistemas de Información
 <!--Languages and Tools Section-->       
 <h2 align="center"> Lenguajes y Herramientas </h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,mongo,git,vscode,postman,vite"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,mongo,git,vscode,postman,vite,wordpress"  />
 </p>
 <br />
 
