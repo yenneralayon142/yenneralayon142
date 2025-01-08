@@ -67,7 +67,7 @@ Analista y Desarrollador de Sistemas de Información
     </td>
   </tr>
   <tr>
-    <td width="100%">
+    <td width="50%">
       <h3 align="center"><strong>Top Contribuciones </strong></h3>
       <p align="center">
         <a href="https://github.com/yenneralayon142">
