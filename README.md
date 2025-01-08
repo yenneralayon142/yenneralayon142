@@ -15,7 +15,7 @@ Analista y Desarrollador de Sistemas de Información
 <br /> 
 
 <!--Start Intro-->               
-<p align="left"> Soy Analista y Desarrollador de Sistemas de Información. Los lenguajes de programación en los que más me destacon son Python, C# y JavaScript.</p>
+<p align="left"> Soy Analista y Desarrollador de Sistemas de Información. Los lenguajes de programación en los que más me destaco son Python, C# y JavaScript.</p>
 
 
 <!--End Intro-->
