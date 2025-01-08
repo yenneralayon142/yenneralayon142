@@ -21,7 +21,7 @@ Analista y Desarrollador de Sistemas de Información
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yenneralayon142&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=yenneralayon142&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="yenneralayon142" style="padding-right:20px;" />
 </p>
 
 ---
@@ -45,12 +45,12 @@ Analista y Desarrollador de Sistemas de Información
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 Estadisticas GitHub 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong> Estadisticas GitHub </strong></h3>
       <p align="center">
         <a href="https://github.com/yenneralayon142">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=yenneralayon142&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
@@ -58,7 +58,7 @@ Analista y Desarrollador de Sistemas de Información
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong> Estadisticas </strong></h3>
       <p align="center">
         <a href="https://github.com/yenneralayon142">
           <img align="center" src="https://streak-stats.demolab.com?user=yenneralayon142&theme=nightowl" alt="Streak Stats" />
@@ -71,7 +71,7 @@ Analista y Desarrollador de Sistemas de Información
       <h3 align="center"><strong>Proyecto más destacado</strong></h3>
       <p align="center">
         <a href="https://github.com/yenneralayon142/WCAG">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=yenneralayon142&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=yenneralayon142&repo=WCAG=nightowl&show_owner=true" alt="WCAG" />
         </a>
       </p>
     </td>
@@ -100,14 +100,14 @@ Analista y Desarrollador de Sistemas de Información
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Contactame 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+ <a href="https://www.linkedin.com/in/yenner-snyder-alayon-benavides-28042a289/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<a href="mailto:yenneralayon@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=yenneralayon@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 
