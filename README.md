@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola a Todos! 👋
 
 <!--Banner-->
 ![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
@@ -16,14 +16,12 @@ Analista y Desarrollador de Sistemas de Información
 <!--Start Intro-->               
 <p align="left"> Soy Analista y Desarrollador de Sistemas de Información. Los lenguajes de programación en los que más me destacon son Python, C# y JavaScript.</p>
 
-- ✨ Continuous growth
-- 🌱 Every day is a new opportunity
 
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=yenneralayon142&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
@@ -90,7 +88,7 @@ Analista y Desarrollador de Sistemas de Información
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 Grafica de Contribuciones 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yenneralayon142&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
@@ -112,14 +110,6 @@ Analista y Desarrollador de Sistemas de Información
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
 
 <!--Footer--> 
 <p align="center">
