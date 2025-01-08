@@ -10,11 +10,11 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M YENNER! 
-*INFORMATION SYSTEMS ANALYST AND SOFTWARE DEVELOPER*
+Analista y Desarrollador de Sistemas de Información
 <br /> 
 
 <!--Start Intro-->               
-<p align="left"> I am an Information Systems Analyst and Software Developer. My strongest programming languages are JavaScript, Python, and C#.</p>
+<p align="left"> Soy Analista y Desarrollador de Sistemas de Información. Los lenguajes de programación en los que más me destacon son Python, C# y JavaScript.</p>
 
 - ✨ Continuous growth
 - 🌱 Every day is a new opportunity
@@ -30,15 +30,15 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">LANGUAGES AND TOOLS</h2> 
+<h2 align="center"> Lenguajes y Herramientas </h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,mongo,git,vscode,postman"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,mongo,git,vscode,postman,vite"  />
 </p>
 <br />
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">🏆 Trofeos GitHub 🏆</h2>
 <p align="center">
   <a href="https://github.com/yenneralayon142/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yenneralayon142&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
@@ -54,7 +54,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/yenneralayon142">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
@@ -70,18 +70,18 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Proyecto más destacado</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
+        <a href="https://github.com/yenneralayon142/WCAG">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Top Contribuciones </strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/yenneralayon142">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=yenneralayon142&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
