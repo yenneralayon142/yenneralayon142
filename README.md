@@ -70,7 +70,7 @@ Analista y Desarrollador de Sistemas de Información
     <td width="50%">
       <h3 align="center"><strong>Proyecto más destacado</strong></h3>
       <p align="center">
-        <a href="https://github.com/yenneralayon142/WCAG">
+        <a href="https://github.com/yenneralayon142">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=yenneralayon142&repo=https://github.com/yenneralayon142/WCAG=nightowl&show_owner=true" alt="WCAG" />
         </a>
       </p>
